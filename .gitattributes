@@ -1,3 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-Hello Jason, jy is n lekekr ding
+//<<<<<<< Gondor
+//Hello Jason, jy is n lekekr ding
+//=======
+//Hello there
+//>>>>>>> main
